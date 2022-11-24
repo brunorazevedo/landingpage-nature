@@ -4,7 +4,7 @@ Projeto prático da Rocketseat
 
 ### 📋 Pré-requisitos
 
-Instalar pacote NPM
+Instalar pacote NPM - 
 Instalar  Sass
 
 ### 🔧 Instalação

@@ -18,7 +18,7 @@ https://github.com/brunorazevedo/langingpage-nature.git
 
 Executar no terminal:
 
-Após instalado a dependencia do Sass
+Após instalado a dependencia do SASS - 
 Rodar npm run compile:sass
 
 ## 🛠️ Construído com

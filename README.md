@@ -2,10 +2,10 @@
 Desktop - OK 
 Responsive: Em curso
 
-Projeto prático de uma página de turismo.
+Projeto prático de uma página de turismo, com várias animações usando apenas CSS.
 Layout: Jonas Schmedtmann
 
-![screencapture-127-0-0-1-5500-index-html-2022-12-03-15_59_38](https://user-images.githubusercontent.com/53144518/206842290-c7b653cd-a3fd-489b-8e17-2a7993821864.png)
+![landingpage_nature](https://user-images.githubusercontent.com/53144518/206842406-4309989b-d28c-4feb-a5b7-1664cdcf6dec.png)
 
 ### 📋 Pré-requisitos
 

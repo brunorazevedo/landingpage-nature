@@ -1,4 +1,4 @@
-# Landing Page Nature - Breve projeto completo.
+# Landing Page Nature - Em breve projeto completo.
 Desktop - OK 
 Responsive: Em curso
 
